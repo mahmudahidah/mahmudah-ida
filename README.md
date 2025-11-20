@@ -2,7 +2,7 @@ Nama : mahmudah amalia putri
 
 NIM : 24090085
 
-Link Repository :https://github.com/mahmudahidah/mahmudah-ida.git t Link GitHub Pages :
+Link Repository :https://github.com/mahmudahidah/mahmudah-ida.git t Link GitHub Pages : https://mahmudahidah.github.io/mahmudah-ida/
 
 Deskripsi Singkat : Proyek ini merupakan aplikasi web sederhana yang terdiri dari tiga halaman utama: Halaman Login, Dashboard, dan List Data Produk.
 
